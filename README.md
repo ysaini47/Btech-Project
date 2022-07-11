@@ -1,0 +1,1 @@
+Find an optimum porfolio by using a numerical method to create porfolios invoking random weights and testing beta-return for each combination of weights. Then selecting the weights that leads to the highest return-beta slope (optimum portfolio)
